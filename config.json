@@ -1,12 +1,12 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "PlayAlongMC.aternos.me",
+    "port": "23587",
     "password": "",
     "prefix": "",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
+    "loginmsg": "hello everyone",
     "web": "true"
     
 }
